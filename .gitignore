@@ -1,0 +1,45 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build output
+dist/
+build/
+.temp/
+.cache/
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Testing
+coverage/
+
+# dotenv environment variables file
+.env*
+!.env.example
+
+# IDEs and editors
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Misc
+*.tgz
+*.log
+package-lock.json
+yarn.lock
+.pnp/
+.pnp.js
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
